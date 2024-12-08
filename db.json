@@ -1,0 +1,34 @@
+{
+  "loan": [
+    {
+      "id": "34ec",
+      "loanType": null,
+      "document": {},
+      "amount": 505000,
+      "creditScore": 400,
+      "cibilScore": 400,
+      "monthlyIncome": 499999,
+      "documents": {
+        "bankStatement": {},
+        "aadharCard": {},
+        "panCard": {},
+        "incomeCertificate": {},
+        "utilityBill": {}
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "8139",
+      "name": "a b c",
+      "dateOfBirth": "2024-12-07",
+      "age": 0,
+      "aadharNumber": "123456789012",
+      "panNumber": "AAAAA55555",
+      "mobileNumber": "7666666666",
+      "email": "abc@gmail.com",
+      "password": "aDITYA@0088",
+      "gender": "male"
+    }
+  ]
+}
